@@ -23,7 +23,7 @@ form{
 .login-top{
     text-align: center;
 }
-login-grupo > label {
+.login-grupo > label {
     color: #9acdcd;
     display: block;
 }
